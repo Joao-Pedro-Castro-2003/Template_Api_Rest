@@ -1,1 +1,1 @@
-# Template_Api_Rest
+# Template criado para facilitar a configuração de futuros projetos
